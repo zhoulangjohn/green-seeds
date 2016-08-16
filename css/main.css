@@ -535,6 +535,7 @@ footer {
   padding: 100px 50px 10px 50px;
   max-width: 1440px;
   margin: 0 auto;
+  min-height: calc(100vh - 80px);
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
