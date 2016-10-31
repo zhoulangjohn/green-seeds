@@ -727,3 +727,33 @@ blockquote {
   .research-mentor-topic p em {
     font-style: normal;
     font-weight: 700; }
+
+.research-award-content {
+  max-width: 640px;
+  margin: 0 auto; }
+  .research-award-content p, .research-award-content ol {
+    color: #1c3724;
+    text-align: justify; }
+  .research-award-content ol li {
+    margin-bottom: 10px; }
+  .research-award-content figure {
+    text-align: center; }
+  .research-award-content img {
+    width: 100%;
+    margin-bottom: 10px; }
+  .research-award-content figcaption {
+    font-size: 13px;
+    font-weight: 500; }
+
+.research-intro {
+  border-bottom: 1px solid #ccc; }
+  .research-intro h4 {
+    font-size: 20px;
+    color: #273630;
+    margin: 10px 0; }
+  .research-intro h5 {
+    font-size: 14px;
+    margin: 0;
+    font-weight: 400; }
+    .research-intro h5 b {
+      color: #333; }

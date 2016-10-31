@@ -671,3 +671,30 @@ blockquote {
   }
 }
 
+.research-award-content {
+  max-width : 640px;
+  margin    : 0 auto;
+
+  p, ol { color: desaturate(darken($dark-g,20%), 20%); text-align: justify;}
+  ol li { margin-bottom: 10px; }
+  figure { text-align: center; }
+  img { width: 100%; margin-bottom: 10px; }
+  figcaption { font-size: 13px; font-weight: 500; }
+}
+
+.research-intro {
+  border-bottom: 1px solid #ccc;
+
+  h4 {
+    font-size : 20px;
+    color     : #273630;
+    margin    : 10px 0;
+  }
+  h5 {
+    font-size   : 14px;
+    margin      : 0;
+    font-weight : 400;
+
+    b { color: #333; }
+  }
+}
