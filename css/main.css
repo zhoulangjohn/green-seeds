@@ -757,3 +757,10 @@ blockquote {
     font-weight: 400; }
     .research-intro h5 b {
       color: #333; }
+
+.content-wrap.x-file-content .sub-content {
+  margin: 0 auto; }
+
+.content-wrap.x-file-content section {
+  font-size: 16px;
+  max-width: 960px; }

@@ -698,3 +698,14 @@ blockquote {
     b { color: #333; }
   }
 }
+
+.content-wrap.x-file-content {
+  .sub-content {
+    margin: 0 auto;
+  }
+
+  section {
+    font-size: 16px;
+    max-width: 960px;
+  }
+}
